@@ -1,0 +1,3 @@
+class InvalidRollError : Throwable() {
+
+}

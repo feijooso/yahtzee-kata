@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScoreCalculatorTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-10-13T14:54:29" hostname="DESKTOP-4HFR3CK" time="0.121">
+  <properties/>
+  <testcase name="[1] 22222, 10" classname="ScoreCalculatorTest" time="0.057"/>
+  <testcase name="[2] 21111, 2" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[1] 12345, 15" classname="ScoreCalculatorTest" time="0.004"/>
+  <testcase name="[2] 11111, 0" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[3] 13245, 15" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[1] 11111, 50" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 22222, 50" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[3] 33334, 0" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[1] 11335, 6" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 15335, 10" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[1] 12111, 6" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 11112, 6" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[1] 11132, 3" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 43332, 9" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[3] 56451, 0" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[4] 11111, 3" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[1] 11111, 5" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 12222, 1" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[3] 11222, 2" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[4] 11122, 3" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[1] 23456, 20" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 12532, 0" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[3] 64352, 20" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[1] 11345, 2" classname="ScoreCalculatorTest" time="0.001"/>
+  <testcase name="[2] 13345, 6" classname="ScoreCalculatorTest" time="0.0"/>
+  <testcase name="[3] 13245, 0" classname="ScoreCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

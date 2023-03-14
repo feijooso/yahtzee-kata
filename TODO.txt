@@ -1,0 +1,21 @@
+-threes
+-fours
+-fives
+-sixes
+
+  
+-two pairs
+  +tengo two pairs: sum
+  +no tengo two pairs: 0
+  
+
+-four of a kind
+  +tengo: sum
+  +no tengo: 0
+  
+-full house
+  +tengo: sum
+  +no tengo
+
+separar los tests 
+
